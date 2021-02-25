@@ -6,9 +6,15 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.3",
+    "little-state-machine": "^2.7.0-beta.10",
+    "little-state-machine-devtools": "^2.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-scripts": "4.0.3",
+    "react-hook-form": "^6.15.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "react-step-progress": "^1.0.3",
+    "react-stepzilla": "^6.0.2",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
